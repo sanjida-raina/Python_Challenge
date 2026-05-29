@@ -1,3 +1,6 @@
+# This will print the n-th Fibonacci number . 
+# A Fibinacci number is sum of prevously 2 Fabinacci number , start with 0, 1
+
 n = int(input())
 first = 0
 second = 1

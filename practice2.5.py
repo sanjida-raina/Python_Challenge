@@ -1,3 +1,5 @@
+# This will check if a provided number is Fabonacci
+
 n = int(input())
 
 first = 0
